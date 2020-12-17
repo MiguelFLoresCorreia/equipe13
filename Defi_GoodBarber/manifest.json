@@ -1,0 +1,61 @@
+{
+    "name": "Défi GoodBarber",
+    "short_name": "Défi GoodBarber",
+    "lang": "fr",
+    "description": "Site qui monitore le prix d'objets se trouvant sur Google Shopping",
+    "theme_color": "#2196f3",
+    "background_color": "#2196f3",
+    "dir": "ltr",
+    "display": "standalone",
+    "orientation": "any",
+    "scope": "/",
+    "start_url": "/index.html",
+    "icons": [
+        {
+            "src": "/assets/icon/gb-512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        },
+        {
+         "src": "/assets/icon/gb-192.png",
+         "type": "image/png",
+         "sizes": "192x192"
+        },
+        {
+         "src": "/assets/icon/gb-180.png",
+         "type": "image/png",
+         "sizes": "180x180"
+        },
+        {
+         "src": "/assets/icon/gb-152.png",
+         "type": "image/png",
+         "sizes": "152x152"
+        },
+        {
+         "src": "/assets/icon/gb-144.png",
+         "type": "image/png",
+         "sizes": "144x144"
+        },
+        {
+         "src": "/assets/icon/gb-120.png",
+         "type": "image/png",
+         "sizes": "120x120"
+        },
+        {
+         "src": "/assets/icon/gb-114.png",
+         "type": "image/png",
+         "sizes": "114x114"
+        },
+        {
+         "src": "/assets/icon/gb-96.png",
+         "type": "image/png",
+         "sizes": "96x96"
+        },
+        {
+         "src": "/assets/icon/gb-76.png",
+         "type": "image/png",
+         "sizes": "76x76"
+        }
+    ],
+    "prefer_related_applications": false
+  }
