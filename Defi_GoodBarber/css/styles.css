@@ -1,0 +1,32 @@
+body{
+    font-family: Arial Rounded MT Bold;
+    color:aliceblue;
+}
+header{
+    background: rgb(233,76,133);
+    background: linear-gradient(90deg,
+    rgba(233,76,133,1) 22%,
+    rgba(243,119,88,1) 66%);
+    padding:1%;
+}
+.card{
+    background-color: #483460;
+}
+.cards{
+    margin: 20px;
+
+}
+.welcome{
+    margin-top: 0.5%;
+    text-align: center;
+}
+a:link{
+    font-style: none;
+    color: aliceblue;
+
+}
+a:visited{
+    font-style: none;
+    color: aliceblue;
+
+}

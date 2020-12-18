@@ -6,7 +6,9 @@ self.addEventListener('install', (evt) => {
     const cachePromise = caches.open(cacheName).then(cache => {
         return cache.addAll([
             'index.html',
+            'graphics.html',
             'main.js',
+            'db.json',
             'assets'
         ])
         .then(console.log('cache initialisé'))

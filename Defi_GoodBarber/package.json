@@ -4,6 +4,8 @@
   "description": "",
   "main": "main.js",
   "scripts": {
+    "jsonserver": "json-server -p 3001 --watch test.json",
+    "jsonserver2": "json-server -p 3002 --watch db.json",
     "start": "live-server --port=3000",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,6 +13,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^4.5.3"
+    "bootstrap": "^4.5.3",
+    "chart.js": "^2.9.4",
+    "mdb-ui-kit": "^3.0.0"
   }
 }

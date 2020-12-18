@@ -1,0 +1,94 @@
+{
+    "data":[{
+    "productTest": [
+    {
+        "id": 1,
+        "name": "Sony PS5 PlayStation 5",
+        "merchant": "StockX",
+        "price": "706,00"
+    },
+    {
+        "id": 2,
+        "name": "CONSOLE PS5 BLU-RAY NEUF",
+        "merchant": "eBay FR",
+        "price": "569,90"
+    },
+    {
+        "id": 3,
+        "name": "Playstation 5 Digital Edition",
+        "merchant": "eBay FR",
+        "price": "790,00"
+    },
+    {
+        "id": 4,
+        "name": "Sony PS5 Playstation 5 Disque Version",
+        "merchant": "eBay FR",
+        "price": "1 013,78"
+    },
+    {
+        "id": 5,
+        "name": "Sony PlayStation 5 PS5 Standard Disc Edition",
+        "merchant": "Wish",
+        "price": "409,00"
+    }
+    ]},
+    {
+    "dataTest" : [{
+        "marteau": [ 
+        {
+            "id": 10028064215386674012,
+            "price" : 55.3,
+            "timestamp" : 1607594400
+        }, 
+        {
+            "id": 10028064215386674012,
+            "price" : 55.5,
+            "timestamp" : 1607680800
+        }, 
+        {
+            "id": 10028064215386674012,
+            "price" : 56.3,
+            "timestamp" : 1607767200
+        },
+        {
+            "id": 10028064215386674012,
+            "price" : 56.2,
+            "timestamp" : 1607853600
+        },
+        {
+            "id": 10028064215386674012,
+            "price" : 56,
+            "timestamp" : 1607940000
+        },
+        {
+            "id": 10028064215386674012,
+            "price" : 56.6,
+            "timestamp" : 1608026400
+        },
+        {
+            "id": 10028064215386674012,
+            "price" : 56.8,
+            "timestamp" : 1608112800
+        }
+        ]}, 
+        {
+        "lampe": [
+        {
+            "id": 2714470090279957385,
+            "price" : 20.0,
+            "timestamp" : 1607594400
+        }, 
+        {
+            "id": 2714470090279957385,
+            "price" : 19.5,
+            "timestamp" : 1607680800
+        }, 
+        {
+            "id": 2714470090279957385,
+            "price" : 19.25,
+            "timestamp" : 1607767200 
+        }
+        ]}
+        ]}
+    ]
+}

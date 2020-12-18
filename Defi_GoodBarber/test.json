@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "Nom": "parfum BOSS",
+            "Date": "18-12-2020-09-30-58",
+            "ID": "13517",
+            "Prix": "56.80",
+            "marchand": "Venteordi",
+            "Frais": "0"
+        },
+        {
+            "Nom": "parfum BOSS",
+            "Date": "18-12-2020-09-30-58",
+            "ID": "5127",
+            "Prix": "39.00",
+            "marchand": "News Parfums",
+            "Frais": "49"
+        },
+        {
+            "Nom": "parfum BOSS",
+            "Date": "18-12-2020-09-30-58",
+            "ID": "13517",
+            "Prix": "42.00",
+            "marchand": "Origines",
+            "Frais": "0"
+        },
+        {
+            "Nom": "parfum BOSS",
+            "Date": "18-12-2020-09-30-58",
+            "ID": "5127",
+            "Prix": "39.03",
+            "marchand": "Origines",
+            "Frais": "0"
+        },
+        {
+            "Nom": "parfum BOSS",
+            "Date": "18-12-2020-09-30-58",
+            "ID": "4022",
+            "Prix": "30.71",
+            "marchand": "Origines",
+            "Frais": "0"
+        },
+        {
+            "Nom": "parfum BOSS",
+            "Date": "18-12-2020-09-30-58",
+            "ID": "5127",
+            "Prix": "47.59",
+            "marchand": "Marionnaud",
+            "Frais": "0"
+        },
+        {
+            "Nom": "parfum BOSS",
+            "Date": "18-12-2020-09-30-58",
+            "ID": "3435",
+            "Prix": "29.81",
+            "marchand": "Origines",
+            "Frais": "90"
+        }]
+}
